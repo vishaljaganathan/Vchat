@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "95131214945",
+    "firebase_url": "https://vchat-c93c6-default-rtdb.firebaseio.com",
+    "project_id": "vchat-c93c6",
+    "storage_bucket": "vchat-c93c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95131214945:android:9d727f75673650ff4f7620",
+        "android_client_info": {
+          "package_name": "com.vishcorp.vchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPqDlytDIxq09c2zd1nNFscC8_h1Q-1vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
